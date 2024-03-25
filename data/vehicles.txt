@@ -1,0 +1,2 @@
+TRUCK;Toyota;15.3;2023;Red;5;3.5;25
+CAR;Toyota;15.3;2023;White;10;5;Sedan

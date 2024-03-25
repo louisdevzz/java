@@ -1,0 +1,2 @@
+saler1;vo huu nhan;10/10/2023;100;10;10
+saler2;Nguyen van a;01/01/2024;120;20;90
